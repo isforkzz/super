@@ -10,7 +10,7 @@
 ## Installation
 
 ```bash
-pip install ssl-runner
+pip install super
 ```
 
 ---
