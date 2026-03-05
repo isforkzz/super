@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="super",
+    name="super-language",
     version="1.0.0",
     description="SuperStaticLanguage (.ssl) runner and CLI",
     long_description=open("README.md", encoding="utf-8").read(),
