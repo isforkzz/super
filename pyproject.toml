@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "super"
+name = "super-language"
 version = "1.0.0"
 description = "SuperStaticLanguage (.ssl) runner and CLI"
 readme = "README.md"
