@@ -1,5 +1,5 @@
 Metadata-Version: 2.4
-Name: super
+Name: super-language
 Version: 1.0.0
 Summary: SuperStaticLanguage (.ssl) runner and CLI
 License: MIT
@@ -26,7 +26,7 @@ Dynamic: requires-python
 ## Installation
 
 ```bash
-pip install ssl-runner
+pip install super
 ```
 
 ---
